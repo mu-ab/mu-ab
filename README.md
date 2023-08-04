@@ -2,11 +2,12 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🌱 I’m currently learning **about fintech, blockchain, serverless.**
+
+- 🌱 I’m currently learning about **fintech, blockchain, and serverless.** 
 
 - 📝 I regularly write articles on [my personal blog](https://ahmedmusa.vercel.app/blog)
 
-- 💬 Ask me about **typescript, javascript, react, react-native, vue,css/tailwind css**
+- 💬 Ask me about **typescript, javascript, react, react-native, vue, css/tailwind-css**
 
 - 📫 How to reach me **eckkoenterprise@gmail.com**
 
