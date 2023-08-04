@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fRz5ZPBNazP8HWoQQwIzF45-_6jyUsIN/view?usp=sharing](https://drive.google.com/file/d/1fRz5ZPBNazP8HWoQQwIzF45-_6jyUsIN/view?usp=sharing)
 
-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
