@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **fintech, blockchain, and serverless.** 
 
-- 📝 I regularly write articles on [my personal blog](https://ahmedmusa.vercel.app/blog)
+- 📝 I intend to write articles on [my personal blog](https://ahmedmusa.vercel.app/blog)
 
 - 💬 Ask me about **typescript, javascript, react, react-native, vue, css/tailwind-css**
 
