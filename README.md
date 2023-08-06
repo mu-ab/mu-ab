@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning about **fintech, blockchain, and serverless.** 
+- 🌱 I’m currently learning about **fintech, blockchain, and serverless computing.** 
 
 - 😎 [My Portfolio Site](https://ahmedmusa.vercel.app/)
   
