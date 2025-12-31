@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Musa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -10,7 +10,7 @@
   
 - 📝 I intend to write articles on [my personal blog](https://ahmedmusa.vercel.app/blog)
 
-- 💬 Ask me about **typescript, javascript, react, react-native, vue, css/tailwind-css**
+- 💬 Ask me about **typescript, nodejs, javascript, react, react-native, vue, css/tailwind-css**
 
 - 📫 How to reach me **eckkoenterprise@gmail.com**
 
