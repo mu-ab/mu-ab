@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **typescript, nodejs, javascript, react, react-native, vue, css/tailwind-css**
 
-- 📫 How to reach me **eckkoenterprise@gmail.com**
+- 📫 How to reach me **mbadev360@gmail.com**
 
 - 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1fRz5ZPBNazP8HWoQQwIzF45-_6jyUsIN/view?usp=sharing)
 
