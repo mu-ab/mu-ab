@@ -1,24 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Ahmed Musa</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🌱 I’m currently learning about **fintech, blockchain, and serverless computing.** 
-
-- 😎 [My Portfolio Site](https://ahmedmusa.vercel.app/)
-  
-- 📝 I intend to write articles on my [personal blog](https://ahmedmusa.vercel.app/blog)
-
-- 💬 Ask me about **typescript, nodejs, javascript, react, react-native, vue, css/tailwind-css**
-
-- 📫 How to reach me **mbadev360@gmail.com**
-
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1fRz5ZPBNazP8HWoQQwIzF45-_6jyUsIN/view?usp=sharing)
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-musa-2165a1160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-musa-2165a1160/" height="30" width="40" /></a>
